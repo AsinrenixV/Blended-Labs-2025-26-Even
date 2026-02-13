@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: ASIN RENIX V
+* **Register Number**: 212224040036
+* **Date of Submission**: 15-02-2026
 
 ---
 
@@ -99,21 +99,20 @@ Create a simple HTML page and verify that it can be accessed from a web browser 
 
 ### Screenshot 1: VPC and Subnet Details
 
-(Insert Screenshot Here)
+<img width="1919" height="885" alt="Screenshot 2026-02-13 220522" src="https://github.com/user-attachments/assets/830f4243-4cac-406d-be77-724aec9b4203" />
+<img width="1915" height="882" alt="Screenshot 2026-02-13 221113" src="https://github.com/user-attachments/assets/35f37fa3-1162-4347-a749-e9c12bf67614" />
 
----
 
 ### Screenshot 2: EC2 Instance Running
 
-(Insert Screenshot Here)
+<img width="1919" height="882" alt="Screenshot 2026-02-13 222525" src="https://github.com/user-attachments/assets/49194a78-744a-4915-95bc-0c7db8e64460" />
+<img width="1917" height="889" alt="Screenshot 2026-02-13 222859" src="https://github.com/user-attachments/assets/5abf94df-e4f2-4861-8796-220e6ddfc42e" />
 
----
 
 ### Screenshot 3: Web Server Output in Browser
 
-(Insert Screenshot Here)
+<img width="1914" height="881" alt="Screenshot 2026-02-13 223116" src="https://github.com/user-attachments/assets/813c83b2-a5e7-4bb3-968c-10b969f1f32f" />
 
----
 
 ## Result 
 
