@@ -94,8 +94,7 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-<img width="1919" height="887" alt="Screenshot 2026-03-18 110907" src="https://github.com/user-attachments/assets/16ce8696-36a5-4ed2-bb4b-788dcc102b54" />
-
+<img width="1918" height="889" alt="Screenshot 2026-03-18 110855" src="https://github.com/user-attachments/assets/a2f19994-3268-4138-a80c-e627dea5bfb5" />
 
 ---
 
