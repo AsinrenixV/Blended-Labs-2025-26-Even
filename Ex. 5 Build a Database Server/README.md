@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: ASIN RENIX V
+* **Register Number**: 212224040036
+* **Date of Submission**: 18-03-2026
 
 ---
 
@@ -82,33 +82,35 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ## Workflow (Student Explanation)
 
-(Write the steps you followed in your own words)
-
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
-
----
+```
+1.Launched a new EC2 instance named Web Server in the N. Virginia region using Amazon Linux 2023 AMI and t2.micro instance type.
+2.Enabled termination protection and stop protection, configured a security group, and added a user data script to install and start an Apache web server.
+3.Monitored the instance using status checks, CloudWatch metrics, and system logs to ensure it was running properly.
+4.Modified the security group to allow HTTP (port 80) traffic and accessed the web server using the public IP address.
+5.Resized the instance to t2.small, increased the EBS volume size, explored EC2 service quotas, tested stop protection, and finally stopped the instance.
+```
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+<img width="1919" height="887" alt="Screenshot 2026-03-18 110907" src="https://github.com/user-attachments/assets/16ce8696-36a5-4ed2-bb4b-788dcc102b54" />
+
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+<img width="1919" height="896" alt="Screenshot 2026-03-18 204907" src="https://github.com/user-attachments/assets/dd0970a0-0758-48da-b6ed-7a3932357733" />
+
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+<img width="1919" height="892" alt="Screenshot 2026-03-18 211117" src="https://github.com/user-attachments/assets/bec78149-43ff-4625-a5c7-abe71ef45a75" />
+
+
 
 ---
 
