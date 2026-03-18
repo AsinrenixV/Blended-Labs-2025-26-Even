@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: ASIN RENIX V
+* **Register Number**: 212224040036
+* **Date of Submission**: 18-03-2026
 
 ---
 
@@ -110,19 +110,22 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1919" height="880" alt="Screenshot 2026-03-17 225611" src="https://github.com/user-attachments/assets/80d59c5e-6e55-454d-b1e2-8f5f881a32ad" />
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1919" height="949" alt="Screenshot 2026-03-17 214744" src="https://github.com/user-attachments/assets/d3f38d30-7568-44b7-b716-179eb47953cc" />
+
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
 
-(Insert Screenshot Here)
+<img width="1919" height="891" alt="Screenshot 2026-03-17 213958" src="https://github.com/user-attachments/assets/eb54648d-6ced-4e4d-a3ec-d28a62f5f09d" />
+
 
 ---
 
